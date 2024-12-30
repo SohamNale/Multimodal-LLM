@@ -20,8 +20,8 @@ This project demonstrates a multimodal Language Learning Model (LLM) using Llama
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/vision-llm.git
-    cd vision-llm
+    git clone https://github.com/SohamNale/Multimodal-LLM.git
+    cd Multimodal-LLM
     ```
 
 2. Install the required Python packages:
@@ -62,10 +62,6 @@ This project demonstrates a multimodal Language Learning Model (LLM) using Llama
 3. Upload an image and type a query related to the image.
 
 4. Receive a response from the assistant.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 
